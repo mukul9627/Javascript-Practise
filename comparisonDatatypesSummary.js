@@ -27,5 +27,5 @@ const obj = {
 }
 
 const myFunction = function () {
-    console.log('hi all')
+    console.log('hi all Stu')
 }
