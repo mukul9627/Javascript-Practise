@@ -46,6 +46,17 @@ const obj2 = {3: "k", 4: "u", 5: "l"}
 
 
 
-console.log(instagram.hasOwnProperty("name"));
+// console.log(instagram.hasOwnProperty("name"));
 
 // console.log(obj3)
+
+const course = {
+    name: 'Math',
+    Number: 2893,
+    data: 'rtite'
+}
+
+
+const {data} = course // Destructuring
+
+// console.log(data) 
